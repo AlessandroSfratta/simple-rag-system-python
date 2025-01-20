@@ -1,6 +1,3 @@
-### **README: Simple RAG System Python**
-
----
 
 ## **Simple RAG System Python**
 Un sistema di **Retrieval-Augmented Generation (RAG)** basato su Python, progettato per utilizzare il modello **BGE-M3** per calcolare embeddings semantici e implementare un workflow completo per il recupero delle informazioni e la loro analisi.
